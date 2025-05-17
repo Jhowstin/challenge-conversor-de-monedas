@@ -9,7 +9,7 @@ import java.net.http.HttpResponse;
 public class ConsultaMonedas {
 
     public ResultadoConversion buscaMoneda(String monedaOrigen, String monedaDestino, double monto){
-        String apiKey = "8d188202d22c89718d650b05";
+        String apiKey = "Pon aqui tu ApiKey";
         URI direccion = URI.create("https://v6.exchangerate-api.com/v6/" + apiKey +
                 "/pair/" + monedaOrigen + "/" + monedaDestino + "/" + monto);
 
