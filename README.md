@@ -8,7 +8,7 @@ Conversor de monedas en consola usando tasas de cambio en tiempo real a través 
 
 ## ▶️ Cómo ejecutar
 1. Clona el repositorio.
-2. Compila y ejecuta el archivo `.java` desde tu consola.
+2. Ejecuta la clase principal.
 3. Sigue las instrucciones en pantalla para convertir entre diferentes monedas.
 
 ## 🖼️ Vista en consola
